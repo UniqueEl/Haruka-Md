@@ -9,7 +9,7 @@
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "your key",
-    "OpenAIKey": "your openai key",
+    "OpenAIKey": "sk-h2Nd29fNETc6jI54BODT3BlbkFJchnio5Q04oQw3wxZ0Zz8",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_ai_japri": false,
     "auto_ai_grup": false,
@@ -23,7 +23,7 @@
     "anticall": false,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
